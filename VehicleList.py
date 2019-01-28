@@ -36,4 +36,53 @@ vehicleList.append(Vehicle(40685, "truck",5,"Chevy Colorado", 22.7))
 print (vehicleList[4].name)
 
 
-#Next Person Cars
+#Jae Ung Kim(Volvo, Buick, Subaru, Honda)
+vehicleList.append(Vehicle(59750, "suv",5,"Volvo XC90", 21.0))
+vehicleList.append(Vehicle(46800, "suv",5,"Volvo XC60", 20.0))
+vehicleList.append(Vehicle(40300, "suv",5,"Volvo XC40", 23.0))
+vehicleList.append(Vehicle(59950, "car",5,"Volvo S90", 22.0))
+vehicleList.append(Vehicle(166500, "truck",5,"Volvo VNR 640", 14.5))
+
+vehicleList.append(Vehicle(50445, "car",5,"Buick Lacrosse", 25.0))
+vehicleList.append(Vehicle(26500, "suv",5,"Buick Encore", 26.0))
+vehicleList.append(Vehicle(38400, "suv",5,"Buick Envision", 28.5))
+vehicleList.append(Vehicle(62200, "suv",5,"Buick Enclave", 27.4))
+vehicleList.append(Vehicle(44145, "car",5,"Buick Regal GS", 19))
+
+vehicleList.append(Vehicle(27995, "suv",5,"Subaru Forester", 25.3))
+vehicleList.append(Vehicle(19995, "car",5,"Subaru Impreza", 27.0))
+vehicleList.append(Vehicle(24995, "car",5,"Subaru Legacy", 25.0))
+vehicleList.append(Vehicle(29295, "car",5,"Subaru Outback", 25.0))
+vehicleList.append(Vehicle(27995, "car",4,"Subaru BRZ", 21.0))
+
+vehicleList.append(Vehicle(21190, "car",5,"Honda Civic Coupe", 26.0))
+vehicleList.append(Vehicle(33390, "car",5,"Honda Accord Hybrid", 49.0))
+vehicleList.append(Vehicle(27990, "car",5,"Honda Insight Hybrid", 55.0))
+vehicleList.append(Vehicle(40100, "car",6,"Honda Clarity Plugin Hybrid", 42.0))
+vehicleList.append(Vehicle(40790, "truck",5,"Honda Ridgeline", 26.0))
+
+
+#Tayler Verhaegen(Nissan, KIA, Volkswagen, Cadillac)
+vehicleList.append(Vehicle(36498, "truck",3,"Nissan Titan", 15.0))
+vehicleList.append(Vehicle(33198, "suv",7,"Nissan Pathfinder", 11.6))
+vehicleList.append(Vehicle(27998, "car",5,"Nissan Altima", 9.1))
+vehicleList.append(Vehicle(26798, "suv",5,"Nissan Rouge", 9.1))
+vehicleList.append(Vehicle(24498, "Truck",4,"Nissan Frontier", 13.7))
+
+vehicleList.append(Vehicle(20095, "suv",5,"KIA Soul", 9.0))
+vehicleList.append(Vehicle(14795, "car",5,"KIA Rio", 8.3))
+vehicleList.append(Vehicle(22495, "car",5,"KIA Forte", 8.6))
+vehicleList.append(Vehicle(39995, "car",5,"KIA Stinger", 11.1))
+vehicleList.append(Vehicle(28495, "suv",7,"KIA Sedona", 12.7))
+
+vehicleList.append(Vehicle(24475, "car",4,"Volkswagen Bettle", 7.2))
+vehicleList.append(Vehicle(22500, "car",5,"Volkswagen Golf", 8.3))
+vehicleList.append(Vehicle(32995, "car",5,"Volkswagen Passat", 9.3))
+vehicleList.append(Vehicle(29225, "suv",5,"Volkswagen Tiguan", 11.3))
+vehicleList.append(Vehicle(47995, "car",5,"Volkswagen Arteon", 10.6))
+
+vehicleList.append(Vehicle(87595, "suv",8,"Cadillac Escalade", 22.5))
+vehicleList.append(Vehicle(44895, "suv",5,"Cadillac XT5", 41.84))
+vehicleList.append(Vehicle(86870, "car",5,"Cadillac CT6 Plug In", 37.0))
+vehicleList.append(Vehicle(46995, "car",5,"Cadillac CTS", 35.40))
+vehicleList.append(Vehicle(68645, "car",5,"Cadillac ATS", 29.0))
